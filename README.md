@@ -1,6 +1,11 @@
 ## Hi there 👋
+<div align="center">
+<img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="100">
+</div>
 
-Welcome to my GitHub profile! I'm **Ilham Farabi**, a passionate developer specializing in web and mobile development.
+I'm **Ilham Farabi**, an undergraduate developer with a strong passion for web and mobile development. My journey in technology started early and has evolved into a dedication to building impactful digital solutions.
+
+### About Me
 
 - 🔭 I’m currently working on **freelance web projects** and enhancing my skills in **mobile development** through the **Bangkit Academy Mobile Developer Cohort**.  
 - 🌱 I’m currently learning **Machine Learning for Android** and **advanced backend technologies** to broaden my tech stack.  
@@ -11,16 +16,16 @@ Welcome to my GitHub profile! I'm **Ilham Farabi**, a passionate developer speci
   - Email: ilhamfarabi@example.com  
   - LinkedIn: [Ilham Farabi](https://www.linkedin.com/in/ilhamfarabi)  
 - 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: I started coding in **7th grade**, and my first project was a simple HTML website!  
+- ⚡ Fun fact: I started coding in **7th grade**, and my first project was a simple HTML PHP website!  
 
-### 📊 GitHub Stats
-![Ilham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhamfarabi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamfarabi&layout=compact&theme=nightowl) ![Ilham Farabi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilhamfarabi&theme=nightowl&hide_border=false)
 
-### 🚀 My Skills
-- **Programming Languages**: PHP, JavaScript, Kotlin  
-- **Frameworks/Tools**: Android Studio, Bootstrap, Git  
-- **Technologies**: REST APIs, MySQL, cURL, AWS Cloud  
+## <img src="https://media.giphy.com/media/GhRjInY9JbKms/source.gif" width="25"> <b>Contribution graph</b>
+  
+[![Ilham Farabi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ilhamfarabi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+### Skills
 
-Thanks for stopping by! Let’s connect and create something awesome together. 🌟
+| Programming Languages                         | Frameworks & Libraries                                | Tools & Technologies                   |
+|-----------------------------------------------|-------------------------------------------------------|----------------------------------------|
+| PHP, JavaScript, Kotlin, HTML/CSS             | Bootstrap, Retrofit, Android Jetpack                 | Git & GitHub, MySQL, cURL, Android Studio, REST APIs |
