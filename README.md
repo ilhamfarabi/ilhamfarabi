@@ -21,7 +21,7 @@ I'm **Ilham Farabi**, an undergraduate developer with a strong passion for web a
 
 ## <img src="https://media.giphy.com/media/GhRjInY9JbKms/source.gif" width="25"> <b>Contribution graph</b>
   
-[![Ilham Farabi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ilhamfarabi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ilham Farabi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ilhamfarabi&theme=dracula)]
 
 ### Skills
 
