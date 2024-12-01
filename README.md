@@ -10,11 +10,10 @@ I'm **Ilham Farabi**, an undergraduate developer with a strong passion for web a
 - 🔭 I’m currently working on **freelance web projects** and enhancing my skills in **mobile development** through the **Bangkit Academy Mobile Developer Cohort**.  
 - 🌱 I’m currently learning **Machine Learning for Android** and **advanced backend technologies** to broaden my tech stack.  
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative mobile applications** that solve real-world problems.  
-- 🤔 I’m looking for help with **AI integration in mobile applications** and best practices in **cloud architecture**.  
 - 💬 Ask me about **Native PHP**, **MySQL**, **API integration**, and **Android development with Kotlin**.  
 - 📫 How to reach me:  
-  - Email: ilhamfarabi@example.com  
-  - LinkedIn: [Ilham Farabi](https://www.linkedin.com/in/ilhamfarabi)  
+  - Email: ilhamfarabi33@gmail.com  
+  - LinkedIn: [Ilham Farabi](https://www.linkedin.com/in/ilham-farabi)  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: I started coding in **7th grade**, and my first project was a simple HTML PHP website!  
 
